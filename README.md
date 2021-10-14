@@ -9,7 +9,7 @@ I am currently in my first year of a Computer science online degree and learning
 
 - 👀 I’m interested in ...
 SQL
-Databases 
+Data analyst 
 python 
 R 
 
