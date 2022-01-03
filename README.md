@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @MiguelAAP90
 
-Actively looking to change profession from a 10 years carrier as Chef to the Data World, I know it’s a big change but can’t you blame me? In times of technology, Data is a Big player.
+Experiences with data manipulation with the use of the existing tools and methods to solve problems and analyse collected data to make better decisions.
 
-I’ve been preparing myself for the last 3 years taking a Diploma in Predictive Data Analytics and online courses in SQL, Python and Excel Advanced.
+I’ve been preparing myself for the last 4 years taking different certificated courses such as Predictive Data Analytics, SQL, Python and Excel Advanced.
 
-I am currently in my first year of a Computer science online degree and learning programming in my spare time at FreeCodeCamp.
+I enjoy working with database queries, collecting data, visualization and reports with tools such as Excel, Tableau, SQL and R  
+
+I seek challenging opportunities regarding Data Analysis, Data Engineering, ETL, BI, Data Quality, where I can learn new skills, improve the current ones and exposure to Sr levels.
+
+
 
 
 - 👀 I’m interested in ...
@@ -15,8 +19,7 @@ R
 
 - 🌱 I’m currently learning ...
 
-Code in my free time at FreeCodeCamp 
-Also, part-time  Computer Science
+part-time  Computer Science
 
 - 💞️ I’m looking to collaborate...
 
